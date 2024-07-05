@@ -1,6 +1,9 @@
-# easy_rent
+# Custor TabBar
 
-A new Flutter project.
+![image](https://github.com/gopikarp/custom-tab-bar-toogle/assets/100861026/a5f15390-b74c-4a18-8129-75525483a640)
+![image](https://github.com/gopikarp/custom-tab-bar-toogle/assets/100861026/3b8a7aa9-ead0-4b4b-9c21-8836a0a32ae8)
+
+
 
 ## Getting Started
 
